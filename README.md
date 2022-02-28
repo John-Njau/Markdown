@@ -10,11 +10,6 @@
 | ----- | --------- |
 | John  | Developer |
 
-{
-"firstName": "John",
-"lastName" :"Njau"
-"age" : 25
-}
 
 ## Description
 
