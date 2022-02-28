@@ -74,10 +74,68 @@
     height: 52%;
 }
 
+.category-women{
+    /* width: 80%; */
+}
 
 .clothes{
     display: flex;
     justify-content: space-between;
     width: 80%;
     margin: auto;
+}
+
+.aboutus{
+    background-image: url("https://i.postimg.cc/T3m2RFPF/about.jpg");
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    height: 40vh;
+    text-align: center;
+    padding-top: 10%;
+    color: white;
+    
+}
+
+.innerAboutUs{
+    /* border: 1px solid #661a00; */
+    margin: auto auto;
+    width: 50%;
+}
+
+button{
+    border: none;
+    padding: 5px 12px;
+    margin: 10%;
+}
+
+.sale{
+    background-color: #535154;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.socials{
+    background-color: #414141;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.socialmedia>ul{
+    
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.socialmedia>h3{
+text-align: center;
+}
+
+footer{
+    padding: 1%;
+    text-align: center;
+    background-color: #414141;
+    color: white;
 }
