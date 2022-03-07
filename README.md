@@ -8,19 +8,7 @@
 | John  | Developer |
 
 
-# Table of Contents
-
-- [Description](#description)
-- [Installation](#installation)
-- [Technologies Used](#technologies-used)
-- [Live link](#live-link)
-- [Reference](#reference)
-- [Known Bugs](#known-bugs)
-- [License](#license)
-- [Authors Info](#author-Info)
-
-
-# Description
+## Description
 
 This application pitches the business to potential clients by having a user friendly experience.
 Enticing display is the content to take away from this as a cloth business page must be enticing so as to attract customers.
