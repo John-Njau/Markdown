@@ -1,5 +1,5 @@
 #container-one {
-  background-image: url("/clothStoreFiles/assets/backgrounds/hero.jpg");
+  background-image: url("../clothStoreFiles/assets/backgrounds/hero.jpg");
   color: white;
   background-size: cover;
   background-repeat: no-repeat;
