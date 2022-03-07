@@ -1,129 +1,117 @@
-#container-one{
-    background-image: url('../clothStoreFiles/assets/backgrounds/hero.jpg');
-    color: white;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 80vh;
+#container-one {
+  background-image: url("/clothStoreFiles/assets/backgrounds/hero.jpg");
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 80vh;
 }
 
-.navbar{
-    display: flex;
-    justify-content: space-between;
-    max-width: 90%;
-    margin: auto;
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  max-width: 90%;
+  margin: auto;
+  flex-wrap: nowrap;
 }
 
-.menuItems>ul{
-    display: flex;
-    justify-content: space-around;
-    gap: 20%;
-    list-style: none;
-    margin-top: 12%;
+.menuItems > ul {
+  display: flex;
+  justify-content: space-around;
+  gap: 10%;
+  list-style: none;
+  margin-top: 10%;
+  color: #bebebe;
 }
 
-.brandname{
-    margin-top: 2%;
+.brandname {
+  margin-top: 2%;
 }
 
-.branding{
-    position: static;
-    text-align: center;
-    margin-top: 10%;
- }
-
- .branding>h2{
-     font-size: 37px;
- }
-
- .branding>p{
-    font-size: 24px;
+.branding {
+  position: static;
+  text-align: center;
+  margin-top: 10%;
 }
 
- .mouseclick{
-     text-align: center;
-     margin-top: 13%;
- }
-
- .category{
-     background-color: #c6bfa5;
-     height: 12vh;
-     text-transform: uppercase;
-     display: flex;
-     justify-content: space-between;
- }
-
- .gender>ul{
-    display: flex;
-    justify-content: space-around;
-    gap: 20%;
-    list-style: none;
-    margin: 12%;
+.branding > h2 {
+  font-size: 37px;
 }
 
-.seeproducts{
-    margin: 2%;
-    padding: 0.2rem;
-    background-color: #661a00;
-    color: white;
-    height: 52%;
+.branding > p {
+  font-size: 24px;
 }
 
-.clothes{
-    display: flex;
-    justify-content: space-between;
-    width: 80%;
-    margin: auto;
+.mouseclick {
+  text-align: center;
+  margin-top: 8%;
 }
 
-.aboutus{
-    background-image: url("https://i.postimg.cc/T3m2RFPF/about.jpg");
-    background-size: cover;
-    height: 40vh;
-    text-align: center;
-    padding-top: 10%;
-    color: white;
-    
+.category {
+  background-color: #c6bfa5;
+  /* height: 12vh; */
+  text-transform: uppercase;
+  display: flex;
+  justify-content: space-between;
 }
 
-.innerAboutUs{
-    margin: auto auto;
-    width: 50%;
+.seeproducts {
+  margin: 2%;
+  background-color: #661a00;
 }
 
-button{
-    border: none;
-    padding: 5px 12px;
-    margin: 10%;
+.clothes {
+  display: flex;
+  justify-content: space-between;
+  /* width: 80%; */
+  /* margin: auto; */
 }
 
-.sale{
-    background-color: #535154;
-    color: #fff;
-    display: flex;
-    justify-content: start;
-    padding-left:2% ;
+.aboutus {
+  background-image: url("https://i.postimg.cc/T3m2RFPF/about.jpg");
+  background-size: cover;
+  height: 40vh;
+  text-align: center;
+  padding-top: 10%;
+  color: white;
 }
 
-.socials{
-    background-color: #414141;
-    display: flex;
-    justify-content: space-between;
-    
+.innerAboutUs {
+  margin: auto auto;
+  width: 50%;
 }
 
-.socialmedia>ul{
-    
-    display: flex;
-    justify-content: space-around;
-    list-style: none;
-}
-.socialmedia>h3{
-text-align: center;
+button {
+  border: none;
+  padding: 5px 12px;
+  margin: 5%;
 }
 
-footer{
-    padding: 1%;
-    text-align: center;
-    background-color: #414141;
-    color: white;
+.sale {
+  background-color: #535154;
+  color: #fff;
+  display: flex;
+  justify-content: start;
+  padding-left: 2%;
+}
+
+.socials {
+  background-color: #414141;
+  display: flex;
+  justify-content: space-between;
+}
+
+.socialmedia > ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+.socialmedia > h3 {
+  text-align: center;
+}
+
+footer {
+  padding: 1%;
+  text-align: center;
+  background-color: #414141;
+  color: white;
 }
