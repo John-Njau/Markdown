@@ -1,5 +1,5 @@
 # Cloth-Store Website
-### This is a website application for a clothes business start up.
+### This is a website application for a clothes online business.
 
 # By
 
@@ -8,30 +8,68 @@
 | John  | Developer |
 
 
+# Table of Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Technologies Used](#technologies-used)
+- [Live link](#live-link)
+- [Reference](#reference)
+- [Known Bugs](#known-bugs)
+- [License](#license)
+- [Authors Info](#author-Info)
+
+
 # Description
 
 This application pitches the business to potential clients by having a user friendly experience.
 Enticing display is the content to take away from this as a cloth business page must be enticing so as to attract customers.
 
-# Setup/Installation Requirements
+# Installation
 
-The app can be downloaded and used on any windows, macOS or Linux devices.
+To Run this app in your machine, you need to:
 
-# Known Bugs
+- Open Terminal `Ctrl+Alt+T`
 
-This is just the beginning of what is expected to be a major part of the burger business in the coming days.
+- git clone `https://github.com/John-Njau/Yolomy.git`
+
+- `cd Yolomy`
+
+- `code . or atom .` based on the text editor you have to open and view the project.
 
 # Technologies Used
 
-This app has been made using CSS and HTML and Bootstrap
+- HTML - To build the structure of the pages.
 
-# Support and contact details
+- CSS - Used to style the pages incuding the side bar
 
-If you encounter any issues running this application, you are encouraged to contact John Njau via email @johnnjaunjoroge@gmail.com
+- Bootstrap - To style the web page.
+
+
+
+# Live link
+
+Here is the live link to the website.
+
+- https://John-Njau.github.io/Yolomy/
+
+# Reference
+
+- Bootstrap Documentation
+- W3 Schools
+- Moringa Canvas
+
+# Known Bugs
+
+- At the time of deployment, there was no bugs identified by the developer,
+  If you encounter bugs while running the application, create an issue with your observation and expected output, the developer will look at it.
 
 # License
 
-This project is under the MIT license.
+This project is under the [MIT License](https://github.com/John-Njau/My-Portfolio/blob/main/LICENSE).
 
-## Authors Info
-Linked In - **John Njau**
+# Authors Info/ Contact info
+
+Email - [Johnnjaunjoroge@gmail.com](johnnjaunjoroge@gmail.com)
+
+Linked In - [John Njau](https://www.linkedin.com/mwlite/in/john-njau-868b37213)
