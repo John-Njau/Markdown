@@ -66,6 +66,20 @@
   /* margin: auto; */
 }
 
+.tshirt {
+  border: 3px solid #cac09b;
+}
+
+.tshirt,
+.jacket,
+.vest,
+.boots,
+.pants,
+.backpack {
+  background-color: #ddd;
+  padding: 3%;
+}
+
 .aboutus {
   background-image: url("https://i.postimg.cc/T3m2RFPF/about.jpg");
   background-size: cover;
